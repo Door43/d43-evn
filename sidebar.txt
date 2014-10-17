@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[evn:home|Door43 (evn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-evn|d43-evn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-evn/archive/master.zip|d43-evn.zip]]
+
+**Recent Changes**
+{{changes>ns = evn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/evn|Ethnologue data]]
+
